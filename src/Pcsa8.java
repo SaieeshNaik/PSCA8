@@ -5,6 +5,8 @@ public class Pcsa8
 	{
 		System.out.println("Hello from local");
 		System.out.println("my token...........> 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");
+		System.out.println("Hello from github");
+		
 		//hello from github
 		
 	}
